@@ -24,7 +24,7 @@ int main() {
             // if n is even then divide by 2
             n = n / 2;
         } else {
-            // if n is odd then multiply by itself and add 1.
+            // if n is odd then multiply it by 3 and add 1.
             n = n*3 + 1;
         }
     }
